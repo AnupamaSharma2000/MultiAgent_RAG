@@ -1,7 +1,7 @@
 # Deployment Guide - Multi-Agent RAG System
 
-**Author:** Jay Guwalani  
-**Date:** December 2024
+**Author:** Anupama Sharma 
+**Date:** December 2025
 
 ## Overview
 
