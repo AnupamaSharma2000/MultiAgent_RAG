@@ -1,7 +1,7 @@
 # System Architecture - Multi-Agent RAG System
 
 **Author:** Anupama Sharma  
-**Date:** October 2024
+**Date:** October 2025
 
 ## Overview
 
